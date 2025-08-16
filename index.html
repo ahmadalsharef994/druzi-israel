@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title id="pageTitle">Appeal to Israel: Annexation of Jabal Al-Druze</title>
+    <meta name="description"
+        content="Requesting Israeli sovereignty over Jabal Al-Druze based on the historic covenant between Druze and Jews" />
+    <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+    <main>
+        <div class="container">
+            <!-- Header Card -->
+            <div class="header-card">
+
+                <div class="flag-icon" id="flagDisplay">�� <img src="Druze_star.svg" alt="Druze Star" class="druze-star"></div>
+                <div class="avatar">
+                    ️
+                </div>
+                <h1 id="mainHeading">Appeal to Israel: Annexation of Jabal Al-Druze</h1>
+
+                <p class="subtitle" id="subtitleText">Requesting Israeli sovereignty over Jabal Al-Druze based on the historic covenant between Druze and Jews</p>
+            </div>
+
+            <!-- Contact Form Card -->
+            <div class="contact-card">
+                <div class="card-header">
+
+                </div>
+
+                <div class="form-section">
+                    <h3 id="nameHeader">Your Name (Required)</h3>
+
+                    <div class="name-inputs">
+                        <div class="input-group">
+                            <label for="firstName" id="firstNameLabel">First Name *</label>
+                            <input type="text" id="firstName" name="firstName" required>
+                        </div>
+                        <div class="input-group">
+                            <label for="lastName" id="lastNameLabel">Last Name *</label>
+                            <input type="text" id="lastName" name="lastName" required>
+                        </div>
+                    </div>
+
+                    <div class="warning-box" id="warningBoxText">
+                        ⚠️ Please enter your first and last name to enable the send button.
+                    </div>
+
+                    <div class="subject-section" style="margin-bottom: 20px;">
+                        <h4 id="subjectLabel" style="margin-bottom: 8px; font-size: 0.875rem; font-weight: 500; color: #374151;">Subject:</h4>
+                        <p id="emailSubject" style="background: #F3F4F6; padding: 12px 16px; border-radius: 8px; border: 1px solid #D1D5DB; font-size: 0.875rem; color: #374151;"></p>
+                    </div>
+
+                    <div class="message-section">
+                        <label for="message" id="messageLabel">Your Message:</label>
+                        <textarea id="message" name="message" rows="20" readonly></textarea>
+                    </div>
+
+                    <div class="action-buttons">
+                        <button id="sendEmailBtn" class="send-email-btn" disabled>
+                            🇮🇱 Send Appeal to Israel
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+    <script src="templates.js"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>

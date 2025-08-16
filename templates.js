@@ -26,10 +26,10 @@ The Historic Bond - Covenant of Blood:
 
 The relationship between Druze and Jews runs deeper than politics - it is written in blood and faith.
 Our ancestors stood together through centuries, sharing the same monotheistic principles that Jethro taught Moses.
-he Druze have always been loyal allies to the Jewish people, recognizing our common heritage and shared destiny in this sacred land.
-Druze people are educated and can easily integrate within Israel, the civilized power in the region. we appreciate the role of Israel and Jewish people in humanity and science that made our world advanced.
+The Druze have always been loyal allies to the Jewish people, recognizing our common heritage and shared destiny in this sacred land.
+Druze people are educated and can easily integrate within Israel, the civilized power in the region. We appreciate the role of Israel and Jewish people in humanity and science that made our world advanced.
 
-Our Urgent Appeal for Annexation and Protection:
+Our Urgent Appeal for Protection:
 
 Because we cannot wait any longer – blood is shed every day, and death pursues us in every alley.
 
@@ -46,11 +46,10 @@ Historical Justification:
 • Century-old alliance and mutual defense
 • Druze service in the IDF demonstrates unwavering loyalty
 • Geographic continuity with Israeli-controlled Golan Heights
+• First step towards David's Corridor and Great Israel View, and will flourish the trade in the region and the world.
 
 
-This is not merely a political request - it is a plea from Jethro's children facing extinction, invoking the covenant between Jethro and Moses. Only through Israeli sovereignty can the Druze people survive.
-
-Do not be partners in silence – help us before our voices disappear forever.
+This is not merely a political request - it is a plea from Jethro's children facing extinction. Only through Israeli sovereignty can the Druze people survive.
 
 With deepest respect and desperate urgency,
 Thank you to the State of Israel for hearing our cry 🇮🇱
